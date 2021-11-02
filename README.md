@@ -5,5 +5,7 @@
 - 🔭 Estou trabalhando com desenvolvimento Front End
 - 🌱 Estou aprendendo Vue, VueX
 - 📫 Contato: allantrickrothenburg@gmail.com
+[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/allanrothenburg/)](https://instagram.com/allanrothenburg)
+
 
 
