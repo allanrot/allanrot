@@ -6,6 +6,4 @@
 - 🌱 Estou aprendendo Vue, VueX
 - 📫 Contato: allantrickrothenburg@gmail.com
 
-<a href="https://github.com/allanrot">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanrot&layout=compact" />
-</a>
+
