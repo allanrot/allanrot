@@ -1,10 +1,10 @@
 <h2 align="center">Olá, me chamo Allan Rothenburg</h2>
-<img align="center" src="https://media-exp1.licdn.com/dms/image/C4E16AQFR-LhiC07YBw/profile-displaybackgroundimage-shrink_350_1400/0/1635035741519?e=1641427200&v=beta&t=-53ilLzDFajPQoQI7DovERJqw02JrPHvtkUt6a_tTuU">
+<img style="margin-bottom: 20px;" align="center" src="https://media-exp1.licdn.com/dms/image/C4E16AQFR-LhiC07YBw/profile-displaybackgroundimage-shrink_350_1400/0/1635035741519?e=1641427200&v=beta&t=-53ilLzDFajPQoQI7DovERJqw02JrPHvtkUt6a_tTuU">
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 Estou trabalhando com desenvolvimento Front End
-- 🌱 Estou aprendendo Vue, VueX
+- 🌱 Estou aprendendo Vue, VueX, Laravel, PHP, AWS
 - 📫 Contato:
 
 [![Gmail Badge](https://img.shields.io/badge/-allantrickrothenburg-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:allantrickrothenburg@gmail.com)](mailto:allantrickrothenburg@gmail.com)
