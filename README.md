@@ -6,9 +6,9 @@
 - 🌱 Estou aprendendo Vue, VueX
 - 📫 Contato: allantrickrothenburg@gmail.com
 
-<p>
-  [![Instagram Badge](https://img.shields.io/badge/-@allanrothenburg-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/allanrothenburg/)](https://instagram.com/allanrothenburg)
-</p>
+<br>
+[![Instagram Badge](https://img.shields.io/badge/-@allanrothenburg-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/allanrothenburg/)](https://instagram.com/allanrothenburg)
+
 
 
 
