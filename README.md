@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
 
-<h3 style="margin-top: 200px;">Contato:</h3>
+<h3 style="margin-top: 20px;">Contato:</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-allantrickrothenburg-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:allantrickrothenburg@gmail.com)](mailto:allantrickrothenburg@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-allanrothenburg-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-rothenburg-61448244/)](https://www.linkedin.com/in/allan-rothenburg-61448244/)
