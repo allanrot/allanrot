@@ -4,6 +4,8 @@
 
 <img style="margin-bottom: 20px;" align="center" src="https://media-exp1.licdn.com/dms/image/C4E16AQFR-LhiC07YBw/profile-displaybackgroundimage-shrink_350_1400/0/1635035741519?e=1641427200&v=beta&t=-53ilLzDFajPQoQI7DovERJqw02JrPHvtkUt6a_tTuU">
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <h3 style="margin-top: 20px;">Estou trabalhando com</h3> 
