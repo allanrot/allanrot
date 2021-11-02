@@ -1,7 +1,5 @@
 <h1 align="center">Olá, me chamo Allan Rothenburg</h1>
-```diff
-- teste
-```
+![#f03c15] `teste`
 <h2 align="center">(Dev Front End)</h2>
 <img style="margin-bottom: 20px;" align="center" src="https://media-exp1.licdn.com/dms/image/C4E16AQFR-LhiC07YBw/profile-displaybackgroundimage-shrink_350_1400/0/1635035741519?e=1641427200&v=beta&t=-53ilLzDFajPQoQI7DovERJqw02JrPHvtkUt6a_tTuU">
 
