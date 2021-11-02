@@ -7,7 +7,8 @@
 - 📫 Contato: allantrickrothenburg@gmail.com
 
 <br>
-[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/allanrothenburg/)](https://instagram.com/allanrothenburg)
+[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jlim_slam)
+
 
 
 
