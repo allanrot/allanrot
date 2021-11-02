@@ -1,6 +1,6 @@
 <h1 align="center">Olá, me chamo Allan Rothenburg</h1>
 
-<h2 align="center">Dev Front End</h2>
+<h3 align="center">Dev Front End</h3>
 
 ![Vue Logos](/img/vueLogos.png)
 
