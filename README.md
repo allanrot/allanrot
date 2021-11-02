@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Allan Rothenburg</h1>
-![#f03c15]<h2 align="center">Dev Front End</h2>
+<h2 align="center">![#f03c15]Dev Front End</h2>
 <img style="margin-bottom: 20px;" align="center" src="https://media-exp1.licdn.com/dms/image/C4E16AQFR-LhiC07YBw/profile-displaybackgroundimage-shrink_350_1400/0/1635035741519?e=1641427200&v=beta&t=-53ilLzDFajPQoQI7DovERJqw02JrPHvtkUt6a_tTuU">
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
