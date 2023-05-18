@@ -2,7 +2,7 @@
 
 <h3 align="center">Dev Front End</h3>
 
-![Vue Logos](/img/vueLogos.png)
+<!-- ![Vue Logos](/img/vueLogos.png) -->
 
  ---
 
